@@ -1,6 +1,8 @@
-# 📸 SnapBooth – Photobooth Online Gratis & Kiosk System
+# 📸 KaBooth – Photobooth Online Gratis & Kiosk System
 
 Aplikasi web photobooth modern, cepat, dan interaktif yang berjalan 100% di browser tanpa perlu menginstal aplikasi. Dilengkapi dengan studio editor desain strip foto, filter visual native, stiker & emoji, animasi GIF/boomerang, integrasi cloud Supabase (QR code share), galeri event massal (ZIP), dan **Mode Kiosk Layar Penuh Otomatis untuk Tablet**.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Rakskuy/KaaBooth)
 
 ---
 
