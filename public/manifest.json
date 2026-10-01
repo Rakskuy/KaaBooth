@@ -1,0 +1,35 @@
+{
+  "name": "KaBooth – Photobooth Online",
+  "short_name": "KaBooth",
+  "description": "Photobooth online gratis langsung dari browsermu. Ambil pose, pilih frame, dan bagikan foto secara instan.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d14",
+  "theme_color": "#0d0d14",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["photo", "entertainment", "lifestyle"],
+  "shortcuts": [
+    {
+      "name": "Mulai Foto",
+      "short_name": "Foto",
+      "description": "Buka kamera photobooth",
+      "url": "/",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Admin Dashboard",
+      "short_name": "Admin",
+      "description": "Buka dashboard manajemen event",
+      "url": "/admin",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    }
+  ]
+}
